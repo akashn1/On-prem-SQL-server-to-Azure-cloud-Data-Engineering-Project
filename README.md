@@ -4,6 +4,10 @@
 
 This project is a comprehensive guide to building a real-time data engineering pipeline using Microsoft Azure. It covers the entire data engineering lifecycle, from data ingestion to transformation, storage, and analysis, providing practical, hands-on experience with Azure services.
 
+## Project Architecture
+
+![Arc](https://github.com/user-attachments/assets/5394aeff-2920-40dd-88b6-0c33d67e10b1)
+
 ## Project Steps
 
 1. **Setting Up the Azure Environment**
