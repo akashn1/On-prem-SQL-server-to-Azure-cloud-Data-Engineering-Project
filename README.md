@@ -1,4 +1,4 @@
-# On-Premise SQL Server to Azure Data Engineering Project
+# On-Premises SQL Server to Azure Data Engineering Project
 
 ## Overview
 
